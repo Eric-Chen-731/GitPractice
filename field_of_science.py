@@ -65,4 +65,3 @@ key = lambda x: x[1], reverse = True)
 
 for element in sort_FOS:
     print(element[0],"::",element[1])
-    wdwjowjkwodkowkowdokd
